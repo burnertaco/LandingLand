@@ -1,5 +1,7 @@
 # LandingLand
+
 OA3801 Final Project
+
 This repository contains the presentation and code for our project on optimizing the process of land investing.
 The project focused on:
    - Defining hot markets where land sells quickly
