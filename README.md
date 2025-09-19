@@ -18,7 +18,7 @@ Executive Summary: A Data-Driven Model for Land Acquisition Marketing
 
 Introduction: The Policy Problem 
 
-A land investor faces high direct-mail marketing costs and operational inefficiencies. To ensure profitability, the client must target only "hot markets" where land sells quickly and provide accurate, automated offer prices. This project addresses the challenge of how to precisely identify these markets from data and how to apply an accurate, automated valuation to parcels within them, thereby reducing marketing waste and increasing lead quality.
+A land investor faces high direct-mail marketing costs and operational inefficiencies. To ensure profitability, he or she must target only "hot markets" where land sells quickly and provide accurate, automated offer prices. This project addresses the challenge of how to precisely identify these markets from data and how to apply an accurate, automated valuation to parcels within them, thereby reducing marketing waste and increasing lead quality.
 
 Approach and Key Findings 
 
